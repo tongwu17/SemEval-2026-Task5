@@ -1,0 +1,1 @@
+command: python -u scoring.py /app/program/input/ref/solution.jsonl /app/input/res/predictions.jsonl /app/output/scores.json
