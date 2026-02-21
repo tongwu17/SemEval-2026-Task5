@@ -1,4 +1,4 @@
-# SemEval 2026 Task 5: Narrative Understanding
+# SemEval 2026 Task 5
 
 ## Overview
 
@@ -36,15 +36,15 @@
 ## Quick Start
 
 ```bash
-# Install dependencies
-pip install -r src/requirements.txt
+# Install dependencies (choose based on the method you want to run)
+pip install -r src/requirements.txt              # src/methods/
+pip install -r finetune_deberta/requirements.txt  # finetune_deberta/
 
 # Set OpenAI API key (required for LLM method)
 export OPENAI_API_KEY="your-key-here"
 
 # Run a method (example)
 python src/methods/llm_prompting.py
-
 # Evaluate predictions 
 cd semeval26-05-scripts
 python scoring.py data/dev.json path/to/predictions.jsonl output/scores.json
