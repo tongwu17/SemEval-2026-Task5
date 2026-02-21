@@ -36,7 +36,7 @@ def load_model_and_tokenizer(experiment_dir, device):
     # This will automatically load the config and weights
     model = PlausibilityRegressionModel.from_pretrained(model_dir)
     
-    print("✓ Successfully loaded model and tokenizer")
+    print("Successfully loaded model and tokenizer")
 
     model.to(device)
     model.eval()
