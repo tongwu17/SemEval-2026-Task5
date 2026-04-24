@@ -6,6 +6,8 @@
 
 **Metrics:** Spearman Correlation, Accuracy Within Standard Deviation.
 
+News: Our paper "NCL-UoR at SemEval-2026 Task 5: Embedding-Based Methods, Fine-Tuning, and LLMs for Word Sense Plausibility Rating" has been accepted by the 20th International Workshop on Semantic Evaluation (SemEval-2026), and will be published by the Association for Computational Linguistics.
+
 ## Project Structure
 
 ```
