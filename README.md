@@ -6,7 +6,35 @@
 
 **Metrics:** Spearman Correlation, Accuracy Within Standard Deviation.
 
-News: Our paper "NCL-UoR at SemEval-2026 Task 5: Embedding-Based Methods, Fine-Tuning, and LLMs for Word Sense Plausibility Rating" has been accepted by the 20th International Workshop on Semantic Evaluation (SemEval-2026), and will be published by the Association for Computational Linguistics.
+## Publications
+
+- Paper: "NCL-UoR at SemEval-2026 Task 5: Embedding-Based Methods, Fine-Tuning, and LLMs for Word Sense Plausibility Rating" (https://aclanthology.org/2026.semeval-1.242.pdf)
+- ACL Anthology: https://aclanthology.org/2026.semeval-1.242/
+- DOI: [10.18653/v1/2026.semeval-1.242](https://doi.org/10.18653/v1/2026.semeval-1.242)
+- Accepted at the Proceedings of the 20th International Workshop on Semantic Evaluation (2026)
+- Publisher: Association for Computational Linguistics
+
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@inproceedings{wu-etal-2026-ncl-uor,
+    title = "{NCL}-{U}o{R} at {S}em{E}val-2026 Task 5: Embedding-Based Methods, Fine-Tuning, and {LLM}s for Word Sense Plausibility Rating",
+    author = "Wu, Tong  and
+      Markchom, Thanet  and
+      Liang, Huizhi(elly)",
+    booktitle = "Proceedings of the 20th {I}nternational {W}orkshop on {S}emantic {E}valuation (2026)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.semeval-1.242/",
+    doi = "10.18653/v1/2026.semeval-1.242",
+    pages = "1930--1937",
+    ISBN = "979-8-89176-414-9",
+}
+```
 
 ## Project Structure
 
